@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1511555103 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes.h"
+	"mapa.h"
+	"jogador.h"
+	"colors.c"
+
+1507241219 c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\mapa.h
+
+1511202700 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\mapa.c
+	"colors.c"
+
+1511478312 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\jogador.c
+	<stdbool.h>
+	"colors.c"
+	"funcoes.h"
+
+1511546394 c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\funcoes.h
+
+1511201528 c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\jogador.h
+	<stdbool.h>
+
+1511546392 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\funcoes.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	"colors.c"
+
+1507244124 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\colors.c
+
+1507244124 c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\colors.c
+
+1511203617 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\inteligenciafantasma.c
+	<math.h>
+
+1510348286 source:c:\users\mathe\documents\faculdade\2-semestre\algoritmo\projetofinal\teste.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
